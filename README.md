@@ -78,5 +78,6 @@ ___
 * Select **Body** -> click **raw** -> select JSON -> enter the body 
 ___
 ## Token : 
-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
+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 \
+(after uploading the token, github revoked the token and requested to generate a new token)
 ___
